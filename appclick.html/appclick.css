@@ -81,7 +81,7 @@ body{
        display: grid;
     }
     .loginform{
-        display: none;
+      
         flex-direction: column;
     }
 }
