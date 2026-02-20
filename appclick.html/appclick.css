@@ -80,8 +80,5 @@ body{
         flex-direction: column-reverse;
        display: grid;
     }
-    .loginform{
-      
-        flex-direction: column;
-    }
+    
 }
