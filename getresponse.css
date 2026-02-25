@@ -137,11 +137,21 @@ h1{
     font-weight: 600%;
 }
 @media (max-width: 600px) {
-    .menu{
+    .content{
+      flex-direction: column;
+    }
+    .bodyy{
         display: block;
     }
-    .bar{
-        display: none;
+    footer{
+       flex-direction: column;
+    }
+    .right-div{
+        display: block;
+        flex-direction: column;
+    }
+    .left-div{
+        display: grid;
     }
 }
 

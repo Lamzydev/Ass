@@ -1,5 +1,6 @@
 body{
     height: 100vh;
+    font-family: rubik;
 }
 .container{
     display: flex;
@@ -71,6 +72,8 @@ body{
     color: grey;
     padding: 0 10px;
 }
+
+
 @media (max-width: 600px){
     .container{
         flex-direction: column;
